@@ -1,0 +1,4 @@
+<!--pages/my/my.wxml-->
+<view class='my_view'>
+  <image src='my_img_bg.png'/>
+</view>
